@@ -1,0 +1,10 @@
+#!/bin/bash
+name="alex"
+go="hello"
+fairing="doing"
+now="today"
+h="how"
+echo ${go} "morning ${name} ${h} are you ${fairing} ${now}?"
+echo $go "afternoon $name $h are you $fairing $now?"
+echo $go "evening $name $h are you $fairing?"
+echo $go "night $name $h are was your day?"
